@@ -3,7 +3,7 @@
 ###### This project was done as a part of the WebDev challenges Discord https://discord.gg/eayukvGydW
 
 ### [Github Pages](https://joyun25.github.io/food4u/)
-
+![](https://i.imgur.com/bB3IjBs.jpg)
 #### Function:
 - Simple one-page webpage (my first work with JavaScript)
 #### Technology：
