@@ -5,7 +5,7 @@
 ### [Github Pages](https://joyun25.github.io/food4u/)
 
 #### Function:
-- Simple one-page webpage (my forst work with JavaScript)
+- Simple one-page webpage (my first work with JavaScript)
 #### Technology：
 - Scss
 - RWD
